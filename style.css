@@ -1,5 +1,5 @@
 body{
-    font-family: 'Montserrat, sans-serif';
+    font-family: 'Montserrat', sans-serif;
 }
 
 .navbar{
@@ -48,7 +48,7 @@ img.img-fluid{
 }
 
 h1 {
-    font-size: 3rem; 
+    font-size: 3.5rem; 
     color: #061539;
   }
   
