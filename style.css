@@ -139,6 +139,10 @@ p.card-text{
     padding-left: 50px;
 }
 
+p>a{
+    color: #F05F44;
+    text-decoration: none;
+}
 .btn-secondary{
     background-color: #F05F44;
     border-color: #F05F44;
